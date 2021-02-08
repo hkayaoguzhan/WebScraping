@@ -20,4 +20,7 @@ To run this project, install it locally using npm:
 * $ npm install
 * $ node index.js
 
+## Usage Api
+
+* Get All Data : http://localhost:4242/api/dress 
  
